@@ -28,7 +28,7 @@ def main():
     recipient = 'correodeprueba@gmail.com'
     subject = 'This is your subject'
     
-    # if you want to send a bcc you can put all the in this list
+    # if you want to send a bcc you can put all mails in this list
     # bbc_recipients = [ ... ] 
 
     msg['Subject'] = subject
